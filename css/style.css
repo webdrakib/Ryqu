@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#footer{
+    background-color: black;
+    color: #fff;
+}
+
+.head_cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: palevioletred;
+}
+.right{
+    display: flex;
+}
